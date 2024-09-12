@@ -3,6 +3,8 @@
 Welcome to my page!
 I'm Sebastian, Fullstack developer from **Santiago, Chile.**
 
+![Banner de Sebastian Quero](git.png)
+
 ### Things | code with
 
 <p align="left">
